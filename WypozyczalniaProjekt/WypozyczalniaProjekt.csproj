@@ -413,6 +413,7 @@
     <Content Include="Content\Images\2.png" />
     <Content Include="Content\Images\3.jpg" />
     <Content Include="Content\Images\logo.png" />
+    <Content Include="Content\Images\mapa.png" />
     <Content Include="Content\script.js" />
     <Content Include="Content\WypozyczalniaProjekt.xml" />
     <Content Include="favicon.ico" />

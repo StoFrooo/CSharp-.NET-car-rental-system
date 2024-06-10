@@ -507,7 +507,10 @@ select {
 	margin: 30px 0 50px 0;
 	justify-content: space-around;
 }
-
+#image-container {
+	display: flex;
+	justify-content: center;
+}
 .backDel > * {
 	text-decoration: none;
 	color: black;
